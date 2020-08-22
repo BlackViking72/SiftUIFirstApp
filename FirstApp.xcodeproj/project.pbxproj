@@ -13,6 +13,7 @@
 		339A29E424EEE1A40074B103 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 339A29E324EEE1A40074B103 /* Assets.xcassets */; };
 		339A29E724EEE1A40074B103 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 339A29E624EEE1A40074B103 /* Preview Assets.xcassets */; };
 		339A29EA24EEE1A40074B103 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 339A29E824EEE1A40074B103 /* LaunchScreen.storyboard */; };
+		33A8DAAF24F0ED97002689A8 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33A8DAAE24F0ED97002689A8 /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		339A29E624EEE1A40074B103 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		339A29E924EEE1A40074B103 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		339A29EB24EEE1A40074B103 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33A8DAAE24F0ED97002689A8 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				339A29DD24EEE19A0074B103 /* AppDelegate.swift */,
 				339A29DF24EEE19A0074B103 /* SceneDelegate.swift */,
 				339A29E124EEE19A0074B103 /* ContentView.swift */,
+				33A8DAAE24F0ED97002689A8 /* MenuView.swift */,
 				339A29E324EEE1A40074B103 /* Assets.xcassets */,
 				339A29E824EEE1A40074B103 /* LaunchScreen.storyboard */,
 				339A29EB24EEE1A40074B103 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				339A29DE24EEE19A0074B103 /* AppDelegate.swift in Sources */,
+				33A8DAAF24F0ED97002689A8 /* MenuView.swift in Sources */,
 				339A29E024EEE19A0074B103 /* SceneDelegate.swift in Sources */,
 				339A29E224EEE19A0074B103 /* ContentView.swift in Sources */,
 			);
